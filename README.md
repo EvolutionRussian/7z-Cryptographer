@@ -42,3 +42,6 @@ bash script.sh
 ```
 
 Run from a regular user or from root, decide for yourself
+
+<img src="/image/1.png" height="500">
+
