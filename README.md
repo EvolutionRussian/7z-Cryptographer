@@ -12,3 +12,13 @@
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 
+
+### Download Pakets
+
+Downloading p7zip Debian family 
+
+```bash
+sudo apt install p7zip
+```
+
+On other distributions, the installation +- is the same
