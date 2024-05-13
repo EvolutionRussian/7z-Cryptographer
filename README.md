@@ -50,4 +50,8 @@ Fill in the contents of the file <code>instructions.txt</code>
 
 And the initial path from which the cryptographer will begin his work to try on <code>/storage/emulated/0/Download</code> or <code>/</code> if the launch is via root
 
+### I hope it helps someone (╯✧▽✧)╯
+
+<img align="center" src="https://c.tenor.com/i5e5y-M0uOgAAAAd/tenor.gif" width="700">
+
 
