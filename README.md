@@ -22,3 +22,17 @@ sudo apt install p7zip
 ```
 
 On other distributions, the installation +- is the same
+
+### After that, we give the file the rights to execute
+
+```bash
+chmod +x script.sh
+```
+
+### And we can launch
+
+```bash
+bash script.sh
+```
+
+Run from a regular user or from root, decide for yourself
