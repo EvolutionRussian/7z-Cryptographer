@@ -26,6 +26,12 @@ On other distributions, the installation +- is the same
 ### After that, we give the file the rights to execute
 
 ```bash
+git clone https://github.com/EvolutionRussian/7z-Cryptographer
+```
+```bash
+cd 7z-Cryptographer
+```
+```bash
 chmod +x script.sh
 ```
 
