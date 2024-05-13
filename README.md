@@ -44,4 +44,7 @@ bash script.sh
 Run from a regular user or from root, decide for yourself
 
 <img src="/image/1.png" height="500">
+After that, you need to fill in the <code>Password</code>
+Fill in the contents of the file <code>instruction.txt</code>
+
 
