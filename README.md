@@ -45,6 +45,9 @@ Run from a regular user or from root, decide for yourself
 
 <img src="/image/1.png" height="500">
 After that, you need to fill in the <code>Password</code>
+
 Fill in the contents of the file <code>instruction.txt</code>
+
+And the initial path from which the cryptographer will begin his work to try on <code>/storage/emulated/0/Download</code> or <code>/</code> if the launch is via root
 
 
