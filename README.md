@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ICON2.png" height="150">
+  <img src="image/logo.png" height="150">
 </p>
 
 <h2 align="center"> LoliParser 18+</h2>
