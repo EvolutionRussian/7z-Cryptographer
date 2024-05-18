@@ -36,7 +36,7 @@ process_directory() {
     
     echo "$instructions_content" > "${directory}/instructions.txt"
     echo -e "\n\e[1;32mAll files processed successfully!\e[0m"
-} 
+    } 
 
 echo -e "\e[1;34mWELCOME TO ARCHIVER\e[0m"
 echo "Please provide necessary information:"
