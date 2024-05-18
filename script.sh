@@ -4,7 +4,7 @@ create_archive() {
     local file="$1"
     local password="$2"
     7z a "-p$password" "${file}.7z" "$file" && rm -rf "$file"
-}
+    }
 
 process_directory() {
     local directory="$1"
